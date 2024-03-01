@@ -49,3 +49,12 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.font-changed {
+	font-family: 'Madimi+One;';
+	background-color: aqua;
+  }
+
+  .section-color {
+	background-color: blueviolet;
+  }
